@@ -1,0 +1,7 @@
+{
+        "name":"AdminTest",
+        "desc":"Default Project for Xelerate",
+		"filePath": "/AdminTest/AdminTest.json",
+        "type":"PROJECT",
+        "childs":[]    
+}
