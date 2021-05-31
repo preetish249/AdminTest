@@ -1,0 +1,82 @@
+{
+  "name": "firstcheckinagain",
+  "type": "SCREEN",
+  "childs": [],
+  "tbId": "wt_tab_028_",
+  "dynamic": {},
+  "dsgnrIdCntr": 3,
+  "header": {
+    "elmId": "header",
+    "childs": [],
+    "dsgnrId": "header",
+    "elmType": "PORTION",
+    "elmSubType": "HEADER"
+  },
+  "sidebar": {
+    "elmId": "sidebar",
+    "childs": [],
+    "dsgnrId": "sidebar",
+    "elmType": "PORTION",
+    "elmSubType": "SIDEBAR"
+  },
+  "body": {
+    "elmId": "body",
+    "dsgnrId": "body",
+    "childs": [
+      {
+        "custAttrs": [
+          {
+            "attrName": "",
+            "attrValue": ""
+          }
+        ],
+        "elmId": "panel",
+        "elmType": "COMPLEX",
+        "elmSubType": "PANEL",
+        "dsgnrId": "wt_tab_028_000000001",
+        "childs": [
+          {
+            "custAttrs": [
+              {
+                "attrName": "",
+                "attrValue": ""
+              }
+            ],
+            "elmId": "form",
+            "elmType": "COMPLEX",
+            "elmSubType": "FORM",
+            "dsgnrId": "wt_tab_028_000000002",
+            "childs": [
+              {
+                "elmId": "select",
+                "elmType": "SIMPLE",
+                "elmSubType": "SELECT",
+                "dsgnrId": "wt_tab_028_000000003",
+                "childs": [],
+                "options": [],
+                "label": {
+                  "width": {}
+                },
+                "custAttrs": [],
+                "events": [],
+                "lovname": ""
+              }
+            ],
+            "events": [],
+            "lovname": ""
+          }
+        ],
+        "lovname": ""
+      }
+    ],
+    "elmType": "PORTION",
+    "elmSubType": "BODY"
+  },
+  "footer": {
+    "elmId": "footer",
+    "childs": [],
+    "dsgnrId": "footer",
+    "elmType": "PORTION",
+    "elmSubType": "FOOTER"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "firstcheckin",
+  "type": "SCREEN",
+  "childs": [],
+  "tbId": "wt_tab_027_",
+  "dynamic": {},
+  "dsgnrIdCntr": 3,
+  "header": {
+    "elmId": "header",
+    "childs": [],
+    "dsgnrId": "header",
+    "elmType": "PORTION",
+    "elmSubType": "HEADER"
+  },
+  "sidebar": {
+    "elmId": "sidebar",
+    "childs": [],
+    "dsgnrId": "sidebar",
+    "elmType": "PORTION",
+    "elmSubType": "SIDEBAR"
+  },
+  "body": {
+    "elmId": "body",
+    "dsgnrId": "body",
+    "childs": [
+      {
+        "custAttrs": [
+          {
+            "attrName": "",
+            "attrValue": ""
+          }
+        ],
+        "elmId": "panel",
+        "elmType": "COMPLEX",
+        "elmSubType": "PANEL",
+        "dsgnrId": "wt_tab_027_000000001",
+        "childs": [
+          {
+            "custAttrs": [
+              {
+                "attrName": "",
+                "attrValue": ""
+              }
+            ],
+            "elmId": "form",
+            "elmType": "COMPLEX",
+            "elmSubType": "FORM",
+            "dsgnrId": "wt_tab_027_000000002",
+            "childs": [
+              {
+                "align": "left",
+                "elmId": "button",
+                "elmType": "SIMPLE",
+                "elmSubType": "BUTTON",
+                "dsgnrId": "wt_tab_027_000000003",
+                "childs": [],
+                "label": {
+                  "width": {}
+                },
+                "custAttrs": [],
+                "events": [],
+                "lovname": ""
+              }
+            ],
+            "events": [],
+            "lovname": "",
+            "visible": "Y",
+            "fieldset": "N",
+            "layout": "VERTICAL",
+            "bindingType": "oneWay",
+            "paddingAllCustomType": "px",
+            "paddingTopCustomType": "px",
+            "paddingRightCustomType": "px",
+            "paddingBottomCustomType": "px",
+            "paddingLeftCustomType": "px",
+            "marginAllCustomType": "px",
+            "marginTopCustomType": "px",
+            "marginRightCustomType": "px",
+            "marginBottomCustomType": "px",
+            "marginLeftCustomType": "px",
+            "borderWidthType": "px",
+            "borderTopWidthType": "px",
+            "borderRightWidthType": "px",
+            "borderBottomWidthType": "px",
+            "borderLeftWidthType": "px",
+            "borderRadiusAllType": "px",
+            "borderRadiusTlType": "px",
+            "borderRadiusTrType": "px",
+            "borderRadiusBlType": "px",
+            "borderRadiusBrType": "px",
+            "fontSizeCustomType": "px",
+            "widthType": "px",
+            "minWidthType": "px",
+            "maxWidthType": "px",
+            "heightType": "px",
+            "minHeightType": "px",
+            "maxHeightType": "px"
+          }
+        ],
+        "lovname": "",
+        "visible": "Y",
+        "variations": "DEFAULT",
+        "popover": "N",
+        "trigger": "CLICK",
+        "paddingAllCustomType": "px",
+        "paddingTopCustomType": "px",
+        "paddingRightCustomType": "px",
+        "paddingBottomCustomType": "px",
+        "paddingLeftCustomType": "px",
+        "marginAllCustomType": "px",
+        "marginTopCustomType": "px",
+        "marginRightCustomType": "px",
+        "marginBottomCustomType": "px",
+        "marginLeftCustomType": "px",
+        "borderWidthType": "px",
+        "borderTopWidthType": "px",
+        "borderRightWidthType": "px",
+        "borderBottomWidthType": "px",
+        "borderLeftWidthType": "px",
+        "borderRadiusAllType": "px",
+        "borderRadiusTlType": "px",
+        "borderRadiusTrType": "px",
+        "borderRadiusBlType": "px",
+        "borderRadiusBrType": "px",
+        "fontSizeCustomType": "px",
+        "widthType": "px",
+        "minWidthType": "px",
+        "maxWidthType": "px",
+        "heightType": "px",
+        "minHeightType": "px",
+        "maxHeightType": "px"
+      }
+    ],
+    "elmType": "PORTION",
+    "elmSubType": "BODY"
+  },
+  "footer": {
+    "elmId": "footer",
+    "childs": [],
+    "dsgnrId": "footer",
+    "elmType": "PORTION",
+    "elmSubType": "FOOTER"
+  }
+}
