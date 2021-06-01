@@ -4,7 +4,7 @@
   "childs": [],
   "tbId": "wt_tab_023_",
   "dynamic": {},
-  "dsgnrIdCntr": 7,
+  "dsgnrIdCntr": 12,
   "header": {
     "elmId": "header",
     "childs": [],
@@ -33,7 +33,7 @@
         "elmId": "panel",
         "elmType": "COMPLEX",
         "elmSubType": "PANEL",
-        "dsgnrId": "wt_tab_023_000000004",
+        "dsgnrId": "wt_tab_023_000000008",
         "childs": [
           {
             "custAttrs": [
@@ -45,14 +45,14 @@
             "elmId": "form",
             "elmType": "COMPLEX",
             "elmSubType": "FORM",
-            "dsgnrId": "wt_tab_023_000000005",
+            "dsgnrId": "wt_tab_023_000000009",
             "childs": [
               {
                 "align": "left",
                 "elmId": "button",
                 "elmType": "SIMPLE",
                 "elmSubType": "BUTTON",
-                "dsgnrId": "wt_tab_023_000000006",
+                "dsgnrId": "wt_tab_023_000000010",
                 "childs": [],
                 "label": {
                   "width": {}
@@ -66,7 +66,20 @@
                 "elmId": "hyperlink",
                 "elmType": "SIMPLE",
                 "elmSubType": "HYPERLINK",
-                "dsgnrId": "wt_tab_023_000000007",
+                "dsgnrId": "wt_tab_023_000000011",
+                "childs": [],
+                "label": {
+                  "width": {}
+                },
+                "custAttrs": [],
+                "events": [],
+                "lovname": ""
+              },
+              {
+                "elmId": "input",
+                "elmType": "SIMPLE",
+                "elmSubType": "INPUT",
+                "dsgnrId": "wt_tab_023_000000012",
                 "childs": [],
                 "label": {
                   "width": {}
